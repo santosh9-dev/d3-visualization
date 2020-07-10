@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	 <link rel='stylesheet' type='text/css' media='screen' href='home_style.css'>
+    <link rel="stylesheet" href="home_style.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	</head>
+	<body>
+        <div id="grid-item">
+            <div id="header">
+                <div>
+                    <img src="tri.png" style="width: 50px; height:35px; margin-left:15px;">
+                </div>
+                <div><form class="example" action="/action_page.php">
+                    <input type="text" placeholder="Search.." name="search">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                  </form>
+                </div>
+                <div>
+                    <a href="#" class="notification">
+                    <i class="fa fa-bookmark" style="font-size: 20px; color:grey;"></i>
+                    <span class="badge">7</span>
+                    </a>  
+                </div>
+                <div>
+                    <a href="#" class="notification">
+                    <span><i class="fa fa-envelope" style="font-size: 20px; color:grey;"></i></span>
+                    <span class="badge">13</span>
+                    </a>
+                </div>
+                <div><img src="santosh.png" style="width: 30px; height: 30px; border-radius: 50%;"></div>
+                <div class="name"> 
+                    <p>Sarita</p></div>
+            </div>
+
+
+
+            <div id="sidebar">
+                    <div>
+                    <a class="active" href="#"><i class="fa fa-home active" style="font-size: 20px; color:#ffffff"></i>
+                          HOTEL</a>
+                    <a href="#"><i class="fa fa-plane" style="font-size: 20px; color:#ffffff"></i>
+                             FLIGHT</a>
+                    <a href="car.html"><i class="fas fa-key" style="font-size: 20px; color:#ffffff"></i>
+                             CAR RENTAL</a>
+                    <a href="#"><i class="fa fa-map" style="font-size: 20px; color:#ffffff"></i>
+                             TOURS</a>
+                    </div>
+                    <div>
+                    <p style="color: honeydew; text-align: center; font-size: 14px;">
+                        <i class="fa fa-copyright" style="color:honeydew ;"></i>
+                        2017 by trillo.All rights<br>reserved</p>
+                    </div>
+                  </div>
+        
+
+            <div id="photos">
+                <div class="column">
+                    <img src="em1.jpg" style="width:100%">
+                  </div>
+                  <div class="column">
+                    <img src="em2.jpg" style="width:100%">
+                  </div>
+                  <div class="column">
+                    <img src="em3.jpg" style="width:100%">
+                  </div>
+            </div>
+
+
+            <div id="mid">
+                <div class="demo1"> 
+                    <p>HOTEL  LAS  PALMAS   <i class="fa fa-star checked" style="font-size: 20px; color:rgb(230,59,158)"></i>
+                    <i class="fa fa-star checked" style="font-size: 20px; color:rgb(230,59,158)"></i>
+                    <i class="fa fa-star checked" style="font-size: 20px; color:rgb(230,59,158)"></i>
+                    <i class="fa fa-star checked" style="font-size: 20px; color:rgb(230,59,158)"></i>
+                    <i class="fa fa-star checked" style="font-size: 20px; color:rgb(230,59,158)"></i></p>
+                </div>
+                <div class="demo2"><i class="fa fa-map-marker" style="font-size: 20px; color:rgb(230,59,158)"></i>
+                    <u>Albufeira Portugal</u></div>
+                <div class="demo3">
+                    <h1>8.6</h1>
+                    <p><b>429 VOTES</b></p>
+                </div>
+            </div>
+
+
+            <div id="middle">
+                <div class="right">
+                    <p>Lorem ipsum dolor sit amet,consectetur adipisicing  elit.Animi nisi dignissimos debitis ratione sapiente saepe.Accusantium cumque,quas,ut corporis incidunt quae architecto voluptate.</p>
+                    <br>
+                    <p>Accusantium cumque,quas,ut corporis incidunt deserunt quae architecto voluptate delectus,inventore iure aliquid aliquam.</p>
+                    <br>
+                    <hr>
+                    <br>
+                    <div class="lists">
+                        <p><i class='fas fa-angle-right' style='color: rgb(230,59,158);'></i> Close to the beach</p>
+                        <p><i class='fas fa-angle-right' style='color: rgb(230,59,158);'></i> Free airport shuttle</p>
+                        <p><i class='fas fa-angle-right' style='color: rgb(230,59,158);'></i> Air conditioning and heating</p>
+                        <p><i class='fas fa-angle-right' style='color: rgb(230,59,158);'></i> e speek all languages</p>
+                        <p><i class='fas fa-angle-right' style='color: rgb(230,59,158);'></i> Breakfast included</p>
+                        <p><i class='fas fa-angle-right' style='color: rgb(230,59,158);'></i> Free wifi in all rooms</p>
+                        <p><i class='fas fa-angle-right' style='color: rgb(230,59,158);'></i> Pets alloed</p>
+                        <p><i class='fas fa-angle-right' style='color: rgb(230,59,158);'></i> Perfect for families</p>
+                    </div>
+                    <br>
+                    <hr>
+                    <br>
+                    <p>Lucy and 3 other friends recommend this hotel.
+                        <img src="im1.jpg" style="width: 30px; height: 30px; border-radius: 50%; ">
+                        <img src="im2.jpg" style="width: 30px; margin-left: -13px; height: 30px;  border-radius: 50%; ">
+                        <img src="im3.jpg" style="width: 30px;  margin-left: -13px;height: 30px; border-radius: 50%;">
+                        <img src="im4.jpg" style="width: 32px; margin-left: -13px; height: 30px; border-radius: 50%; "> </p>
+
+                </div>
+                <div class="le1">
+                    <img src="mid2.jpg" style="width: 420px; height:225px;">
+                    <div class="paragraph"><p>Lorem ipsum dolor sit amet,
+                        consectetur adipisicing elit.Fuga doloremque architecto dicta animi,
+                        totam,itaque afficia ex.
+                    </p></div> 
+                    <div class="ph">
+                        <img src="nick.jpg" style="width: 40px; height:40px; border-radius: 50%;">
+                        </div>
+                        <div class="na1"><p>NICK SMITH</p></div>
+                        <div class="na2"><p>Feb 23rd,2017</p></div>
+                        <div class="na3"><h1>7.8</h1></div>
+                </div>
+                <div class="le2">
+                    <img src="mid2.jpg" style="width: 420px; height: 225px;"> 
+                    <div class="paragraph"><p>Lorem ipsum dolor sit amet,
+                        consectetur adipisicing elit.Fuga doloremque architecto dicta animi.
+                    </p> 
+                   </div> 
+                    <div class="ph">
+                    <img src="marry.png" style="width: 40px; height:40px; border-radius: 50%;">
+                    </div>
+                    <div class="na1"><p>MARY THOMAS</p></div>
+                    <div class="na2"><p>Sep 13th,2016</p></div>
+                    <div class="na3"><h1>9.3</h1></div>
+                 </div>
+                <div class="le3">Show all <i class="fa fa-arrow-right" style="color:#d41a68 ;text-decoration: underline; ;"></i></div>
+            </div>
+            
+            <div id="footer">
+                <p>GOOD NEWS! WE HAVE 4 FREE ROOMS FOR YOUR SELECTED DATES!</p>
+                <button class="btn book">BOOK NOW</button>
+            </div>
+
+  </div>
+	</body>
+    </head>
+</html>
